@@ -1,6 +1,6 @@
 ---
 
-**Hot Query Terms**
+# Hot Query Terms
 
 A search platform collects query terms from recent traffic into a string array `terms`. The analytics team wants the `k` hottest terms for a dashboard.
 
