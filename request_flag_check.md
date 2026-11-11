@@ -1,6 +1,6 @@
 ---
 
-**Request Flag Check**
+# Request Flag Check
 
 Each inbound request to a search ingestion service is tokenized into a string array `tokens`. The security team maintains a list of blocked tokens as a string array `blocked`.
 
